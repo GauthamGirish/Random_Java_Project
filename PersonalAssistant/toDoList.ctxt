@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ fileNum()
+comment0.text=There\ is\ two\ toDoList\ files\ named\ toDoList1\ and\ toDoList2.\r\n\ whichList\ contains\ the\ number\ 1\ or\ 2\ depending\ on\ what\ is\ being\ used\ as\ the\ current\ toDoList\ file.\r\n\ The\ reason\ for\ this\ is\ written\ in\ the\ comments\ of\ method\ delete\r\n
+comment1.params=
+comment1.target=void\ fileNumChange()
+comment2.params=
+comment2.target=void\ add()
+comment3.params=
+comment3.target=void\ read()
+comment4.params=del
+comment4.target=void\ delete(int)
+comment5.params=
+comment5.target=void\ editor()
+numComments=6

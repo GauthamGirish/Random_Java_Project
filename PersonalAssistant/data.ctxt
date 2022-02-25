@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName\ wrt
+comment0.target=void\ write(java.lang.String,\ java.lang.String)
+comment1.params=fileName\ wrt
+comment1.target=void\ append(java.lang.String,\ java.lang.String)
+comment2.params=fileName
+comment2.target=java.lang.String\ read(java.lang.String)
+numComments=3

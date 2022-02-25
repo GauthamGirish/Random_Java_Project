@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ take()
+comment1.params=enter\ low\ high
+comment1.target=boolean\ check(int,\ int,\ int)
+comment2.params=correct
+comment2.target=boolean\ quiz(int)
+comment3.params=
+comment3.target=int\ takeDate()
+numComments=4

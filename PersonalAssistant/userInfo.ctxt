@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ userName()
+comment1.params=
+comment1.target=void\ userBirthday()
+comment2.params=
+comment2.target=void\ userLocation()
+comment3.params=
+comment3.target=boolean\ edit()
+numComments=4
